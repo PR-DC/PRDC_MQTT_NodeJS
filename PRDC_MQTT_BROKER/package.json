@@ -1,0 +1,18 @@
+{
+  "name": "PR-DC_MQTT_BROKER",
+  "version": "0.0.1",
+  "description": "PR-DC MQTT Broker",
+  "main": "PRDC_MQTT_BROKER.js",
+  "repository": "https://github.com/PR-DC/PRDC_MQTT_NodeJS",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node PRDC_MQTT_BROKER.js",
+    "inspect": "node --inspect PRDC_MQTT_BROKER.js"
+  },
+  "author": "Milos Petrasinovic <mpetrasinovic@pr-dc.com>",
+  "dependencies": {
+    "aedes": "^0.46.0",
+    "public-ip": "^4.0.3",
+    "websocket-stream": "^5.5.2"
+  }
+}

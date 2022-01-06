@@ -1,0 +1,16 @@
+{
+  "name": "PR-DC_MQTT_CLIENT",
+  "version": "0.0.1",
+  "description": "PR-DC MQTT Client",
+  "main": "PRDC_MQTT_CLIENT.js",
+  "repository": "https://github.com/PR-DC/PRDC_MQTT_NodeJS",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node PRDC_MQTT_CLIENT.js",
+    "inspect": "node --inspect PRDC_MQTT_CLIENT.js"
+  },
+  "author": "Milos Petrasinovic <mpetrasinovic@pr-dc.com>",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}

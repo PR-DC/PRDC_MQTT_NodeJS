@@ -1,0 +1,10 @@
+--------------------
+PRDC_MQTT_NodeJS
+Example of MQTT Node.js Broker and Client by PR-DC
+--------------------
+
+Release 1.0.0, 12.12.2021.
+
+- Initial release
+
+--------------------
